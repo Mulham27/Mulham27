@@ -1,10 +1,9 @@
 <div align="center">
 
 # Mulham Kallab
-### Frontend Developer · Mersin, Turkey
+### Frontend Developer · Turkey
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/molham-kallab)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:molham.kallab27@gmail.com)
-[![Phone](https://img.shields.io/badge/+90_541_842_12_90-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+905418421290)
 
 </div>
 
@@ -70,6 +69,7 @@ const mulham = {
 
 | Project | Description | Stack |
 |---|---|---|
+| **Flaunch** | AI-powered automated deployment platform with GitHub App integration | React · TypeScript · Tailwind · FastAPI · MongoDB |
 | **Toros Yazılım** | Corporate cybersecurity & IT solutions website | PHP · PDO · JS · HTML/CSS |
 | **Toryaz** | Corporate website for TORYAZ Teknoloji | PHP · PDO · JS · 4-lang i18n |
 | **GT Sapphire** | International food export company website | PHP · PDO · JS · RTL support |
@@ -94,6 +94,13 @@ refactor: ♻️  A code change that neither fixes a bug nor adds a feature
 test:     ✅ Adding missing tests
 chore:    🔧 Changes to the build process or auxiliary tools
 ```
+
+---
+
+## 🏅 Certificates
+
+- 🎖️ **Honor Certificate (Onur Belgesi)** — Mersin University · Fall 2025 & Spring 2022
+
 ---
 
 <div align="center">
