@@ -97,12 +97,6 @@ chore:    🔧 Changes to the build process or auxiliary tools
 
 ---
 
-## 🏅 Certificates
-
-- 🎖️ **Honor Certificate (Onur Belgesi)** — Mersin University · Fall 2025 & Spring 2022
-
----
-
 <div align="center">
 
 *Thanks for stopping by — feel free to reach out via [LinkedIn](https://linkedin.com/in/molham-kallab) or [email](mailto:molham.kallab27@gmail.com).*
