@@ -15,8 +15,7 @@
 const mulham = {
   location: "Mersin, Turkey 🇹🇷",
   role: "Frontend & Backend Developer @ Toros Yazılım",
-  education: "BSc Computer Engineering — Mersin University (GPA: 3.2 🏅)",
-  focus: ["React", "TypeScript", "PHP", "MongoDB"],
+  focus: ["React", "TypeScript", "PHP", "MongoDB" , "Node.js" , "Python"],
   languages: { arabic: "Native", english: "Fluent", turkish: "Intermediate" },
   openTo: "Challenges that push the boundaries of what I can build",
 };
@@ -32,7 +31,7 @@ const mulham = {
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,redux,vite&theme=dark)](https://skillicons.dev)
 
-**Backend & Languages**
+**Backend**
 
 [![My Skills](https://skillicons.dev/icons?i=php,nodejs,python,c&theme=dark)](https://skillicons.dev)
 
@@ -46,7 +45,7 @@ const mulham = {
 
 </div>
 
-> Also working with: **i18next · React Router · Storybook · TestCafe · FastAPI · scikit-learn · pandas · numpy · Conventional Commits · Agile/Scrum**
+> Also working with: **i18next · React Router · Storybook · TestCafe · FastAPI · scikit-learn · pandas · numpy · Agile/Scrum**
 
 ---
 
@@ -54,12 +53,14 @@ const mulham = {
 
 <div align="center">
 
-### [🚀 Flaunch](https://github.com/molham-kallab) — AI-Powered Automated Deployment Platform
+### [🚀 Flaunch](https://flaunch-dev.vercel.app/) — AI-Powered Automated Deployment Platform
 
 > Full-stack deployment platform with **GitHub App integration** for scoped repository access.
 > Automated project detection · Multi-cloud deployment · AI-powered build error analysis · One-click fix & redeploy
 
 `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `FastAPI` `MongoDB` `JWT`
+
+[🌐 Live Demo](https://flaunch-dev.vercel.app/)
 
 </div>
 
@@ -67,15 +68,14 @@ const mulham = {
 
 ## 📁 Other Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **Flaunch** | AI-powered automated deployment platform with GitHub App integration | React · TypeScript · Tailwind · FastAPI · MongoDB |
-| **Toros Yazılım** | Corporate cybersecurity & IT solutions website | PHP · PDO · JS · HTML/CSS |
-| **Toryaz** | Corporate website for TORYAZ Teknoloji | PHP · PDO · JS · 4-lang i18n |
-| **GT Sapphire** | International food export company website | PHP · PDO · JS · RTL support |
-| **S-Port** | Logistics & freight company website | PHP · PDO · JS · HTML/CSS |
-| **Talisman Shipping** | Maritime agency website for Turkish ports | PHP · PDO · JS · 4-lang i18n |
-| **Elisayat** | Arabic RTL electrical services website | PHP · PDO · JS · HTML/CSS |
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| **[Toros Yazılım](https://www.torosyazilim.com.tr/)** | Corporate cybersecurity & IT solutions website | PHP · PDO · JS · HTML/CSS | [🌐](https://www.torosyazilim.com.tr/) |
+| **[Toryaz](https://www.toryaz.com.tr/)** | Corporate website for TORYAZ Teknoloji | PHP · PDO · JS · 4-lang i18n | [🌐](https://www.toryaz.com.tr/) |
+| **[GT Sapphire](https://www.gtsapphire.com/)** | International food export company website | PHP · PDO · JS · RTL support | [🌐](https://www.gtsapphire.com/) |
+| **[S-Port](https://www.s-port.com.tr/)** | Logistics & freight company website | PHP · PDO · JS · HTML/CSS | [🌐](https://www.s-port.com.tr/) |
+| **[Talisman Shipping](https://www.talisman-shipping.com/)** | Maritime agency website for Turkish ports | PHP · PDO · JS · 4-lang i18n | [🌐](https://www.talisman-shipping.com/) |
+| **[Elisayat](https://www.elisayat.com/)** | Arabic RTL electrical services website | PHP · PDO · JS · HTML/CSS | [🌐](https://www.elisayat.com/) |
 
 > All multi-language projects support **Turkish · English · Russian · Arabic** with full RTL handling.
 
@@ -94,6 +94,21 @@ refactor: ♻️  A code change that neither fixes a bug nor adds a feature
 test:     ✅ Adding missing tests
 chore:    🔧 Changes to the build process or auxiliary tools
 ```
+
+---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=molham-kallab&theme=tokyonight&hide_border=true)](https://github.com/molham-kallab)
+
+[![Mulham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=molham-kallab&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/molham-kallab)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=molham-kallab&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/molham-kallab)
+
+</div>
 
 ---
 
