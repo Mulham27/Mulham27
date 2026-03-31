@@ -75,7 +75,7 @@ const mulham = {
 | **[GT Sapphire](https://www.gtsapphire.com/)** | International food export company website | PHP · PDO · JS · RTL support | [🌐](https://www.gtsapphire.com/) |
 | **[S-Port](https://www.s-port.com.tr/)** | Logistics & freight company website | PHP · PDO · JS · HTML/CSS | [🌐](https://www.s-port.com.tr/) |
 | **[Talisman Shipping](https://www.talisman-shipping.com/)** | Maritime agency website for Turkish ports | PHP · PDO · JS · 4-lang i18n | [🌐](https://www.talisman-shipping.com/) |
-| **[Elisayat](https://www.elisayat.com/)** | Arabic RTL electrical services website | PHP · PDO · JS · HTML/CSS | [🌐](https://www.elisayat.com/) |
+| **[Elisayat](https://www.elisayat.com/)** | One page yachting website | PHP · JS · HTML/CSS | [🌐](https://www.elisayat.com/) |
 
 > All multi-language projects support **Turkish · English · Russian · Arabic** with full RTL handling.
 
